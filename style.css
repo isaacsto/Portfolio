@@ -76,7 +76,15 @@ a {
     border: 2px solid white;
     box-shadow: 20px 20px 10px grey;
 }
-
+.content {
+    margin-left: 245px;
+}
 .application {
     font-size: x-large;
+}
+
+footer {
+    margin-left: 530px;
+    margin-top: 50px;
+
 }
