@@ -77,10 +77,10 @@ a {
 }
 
 
-/* each section has a figure with a  link and a class of card with uniform styling except for the background image */
+/* each section has a figure with a  link and a class of card with nearly uniform styling except for the background image and the first figure's height */
 
 .card {
-    height: 60vh;
+    height: 70vh;
     background-size: cover;
     background-position-y: center;
     display: flex;
@@ -92,7 +92,7 @@ a {
 .card2 {
     height: 33vh;
     background-size: cover;
-    background-position-y: center;
+    background-position-y: 60%;
     display: flex;
     align-items: center;
     justify-content: center;
