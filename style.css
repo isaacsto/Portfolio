@@ -34,7 +34,6 @@ header nav ul li {
 /* img element exists in its own div so I can style it separately with ease */
 img {
     max-width: 400px;
-    border: 2px solid black;
     margin-bottom: 50px;
     display: block;
     margin-left: auto;
