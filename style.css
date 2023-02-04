@@ -80,7 +80,7 @@ a {
 /* each section has a figure with a  link and a class of card with uniform styling except for the background image */
 
 .card {
-    height: 33vh;
+    height: 60vh;
     background-size: cover;
     background-position-y: center;
     display: flex;
