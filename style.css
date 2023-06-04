@@ -132,3 +132,18 @@ footer {
 display: flex;
    justify-content: center;
 }
+
+
+@media screen and (max-width: 992px) {
+    .card, .card1, .card2, .card3, .card4, .card5, .sectionContent {
+      width: 50%;
+    }
+  }
+  
+  /* Cards are stacked on top of each other at 768px or smaller */
+  @media screen and (max-width: 768px) {
+    .card, .card1, .card2, .card3, .card4, .card5, .sectionContent {
+      width: 100%;
+    }
+  }
+  
